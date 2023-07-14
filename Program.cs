@@ -29,22 +29,40 @@
 // A (7,-5, 0); B (1,-1,9) -> 11.53
 
 // формула растояние = scrt((x1 - x2) ^ 2 +  (y1 - y2) ^ 2 + (z1 - z2))
-int enterValue (string prompt)
-{
-    Console.Write($"Введите координату точки {prompt}");
-    int value = Convert.ToInt32(Console.ReadLine());
+// int enterValue (string prompt)
+// {
+//     Console.Write($"Введите координату точки {prompt}");
+//     int value = Convert.ToInt32(Console.ReadLine());
 
-    return value;
+//     return value;
+// }
+
+// int xa = enterValue("a по оси x: ");
+// int ya = enterValue("a по оси y: ");
+// int za = enterValue("a по оси z: ");
+// Console.WriteLine();
+// int xb = enterValue("b по оси x: ");
+// int yb = enterValue("b по оси y: ");
+// int zb = enterValue("b по оси z: ");
+// Console.WriteLine();
+
+// double distance = Math.Sqrt(Math.Pow((xa - xb),2) + Math.Pow((ya - yb),2) + Math.Pow((za - zb),2));
+// Console.Write($"Расстояние между точками равно:{Math.Round(distance,2)}");
+
+
+
+// Задача 23
+// Напишите программу, которая принимает на вход число (N) и выдаёт таблицу кубов чисел от 1 до N.
+// 3 -> 1, 8, 27
+// 5 -> 1, 8, 27, 64, 125
+
+Console.WriteLine("введите число N:  ");
+int num = Convert.ToInt32(Console.ReadLine());
+int num2 = 0;
+for (int i = 1; i <= num; i++)
+{ 
+   num2 = i * i * i;
+   Console.Write($"{num2}, ");
+
 }
-
-int xa = enterValue("a по оси x: ");
-int ya = enterValue("a по оси y: ");
-int za = enterValue("a по оси z: ");
-Console.WriteLine();
-int xb = enterValue("b по оси x: ");
-int yb = enterValue("b по оси y: ");
-int zb = enterValue("b по оси z: ");
-Console.WriteLine();
-
-double distance = Math.Sqrt(Math.Pow((xa - xb),2) + Math.Pow((ya - yb),2) + Math.Pow((za - zb),2));
-Console.Write($"Расстояние между точками равно:{Math.Round(distance,2)}");
+Console.Write("\b\b ");
