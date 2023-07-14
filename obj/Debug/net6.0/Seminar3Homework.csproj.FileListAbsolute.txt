@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\bin\Debug\net6.0\Seminar3Homework.exe
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\bin\Debug\net6.0\Seminar3Homework.deps.json
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\bin\Debug\net6.0\Seminar3Homework.runtimeconfig.json
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\bin\Debug\net6.0\Seminar3Homework.dll
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\bin\Debug\net6.0\Seminar3Homework.pdb
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.dll
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\refint\Seminar3Homework.dll
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.pdb
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\Seminar3Homework.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Seminar3\Seminar3Homework\obj\Debug\net6.0\ref\Seminar3Homework.dll
